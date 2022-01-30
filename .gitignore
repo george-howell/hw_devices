@@ -1,5 +1,7 @@
 *.DS_Store
 
+*docs
+
 audio_amp_TAS6424MS/docs
 audio_amp_TAS6424MS/eval_boards
 
@@ -20,3 +22,4 @@ temp_humid_sensor_SHT21/examples
 temp_humid_sensor_SHT21/pcb_project
 
 merus_audio_amp_MA1270P/docs
+
